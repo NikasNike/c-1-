@@ -1,0 +1,16 @@
+C:\Users\nikas\Desktop\exzample\exzample001_consol\bin\Debug\net6.0\exzample001_consol.exe
+C:\Users\nikas\Desktop\exzample\exzample001_consol\bin\Debug\net6.0\exzample001_consol.deps.json
+C:\Users\nikas\Desktop\exzample\exzample001_consol\bin\Debug\net6.0\exzample001_consol.runtimeconfig.json
+C:\Users\nikas\Desktop\exzample\exzample001_consol\bin\Debug\net6.0\exzample001_consol.dll
+C:\Users\nikas\Desktop\exzample\exzample001_consol\bin\Debug\net6.0\ref\exzample001_consol.dll
+C:\Users\nikas\Desktop\exzample\exzample001_consol\bin\Debug\net6.0\exzample001_consol.pdb
+C:\Users\nikas\Desktop\exzample\exzample001_consol\obj\Debug\net6.0\exzample001_consol.GlobalUsings.g.cs
+C:\Users\nikas\Desktop\exzample\exzample001_consol\obj\Debug\net6.0\exzample001_consol.csproj.AssemblyReference.cache
+C:\Users\nikas\Desktop\exzample\exzample001_consol\obj\Debug\net6.0\exzample001_consol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikas\Desktop\exzample\exzample001_consol\obj\Debug\net6.0\exzample001_consol.AssemblyInfoInputs.cache
+C:\Users\nikas\Desktop\exzample\exzample001_consol\obj\Debug\net6.0\exzample001_consol.AssemblyInfo.cs
+C:\Users\nikas\Desktop\exzample\exzample001_consol\obj\Debug\net6.0\exzample001_consol.csproj.CoreCompileInputs.cache
+C:\Users\nikas\Desktop\exzample\exzample001_consol\obj\Debug\net6.0\exzample001_consol.dll
+C:\Users\nikas\Desktop\exzample\exzample001_consol\obj\Debug\net6.0\ref\exzample001_consol.dll
+C:\Users\nikas\Desktop\exzample\exzample001_consol\obj\Debug\net6.0\exzample001_consol.pdb
+C:\Users\nikas\Desktop\exzample\exzample001_consol\obj\Debug\net6.0\exzample001_consol.genruntimeconfig.cache
