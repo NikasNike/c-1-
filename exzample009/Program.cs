@@ -19,5 +19,5 @@ int max = Max(
 
 Console.WriteLine(max);
 
-27min 
+
 
